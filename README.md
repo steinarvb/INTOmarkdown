@@ -8,7 +8,7 @@
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 Settum báðir upp Ubuntu stýrikerfið á Windows með því að nota Virtual Box. Það gekk frekar auðveldlega fyrir sig hjá okkur báðum. Lentum ekki í neinum stórum vandræðum þar.
-![Alt text](C:\Users\owner\Desktop\mynd.jpg)
+![mynd](C:\Users\owner\Desktop\mynd.jpg)
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
