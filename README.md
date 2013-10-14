@@ -17,7 +17,7 @@ Lýsið hvernig gekk að setja upp þessi tól.
 Vorum heillengi að finna réttar skipanir fyrir hvern og einn hlut og að átta okkur á því hvað við vorum að gera rangt í hvert skipti en það tókst á endanum.
 Eftir að einn hafði náð að fikra sig áfram þá gat hann hjálpað hinum með það vandamál í hvert sinn. 
 
-https://github.com/steinarvb/INTOPrufa
+[Link á verkefni](https://github.com/steinarvb/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
