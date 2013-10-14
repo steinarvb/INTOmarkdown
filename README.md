@@ -9,14 +9,12 @@
 Settum báðir upp Ubuntu stýrikerfið á Windows með því að nota Virtual Box. Það gekk frekar auðveldlega fyrir sig hjá okkur báðum. Lentum ekki í neinum stórum vandræðum þar.
 ![mynd](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/1373061_10201521885521327_778852203_n.jpg?oh=410426c2a2cb81a57b1f997c8851bac9&oe=525E5DE2&__gda__=1381988895_4f276731bf46632e22bc4fe38f51dca8)
 ## 2. Uppsetning á vim && git
-
-Lýsið hvernig gekk að setja upp þessi tól.
+Uppsetningin gekk vel og hrakfallalaust.
 
 ## 3. Unnið með Git (1. hluti)
 
 Vorum heillengi að finna réttar skipanir fyrir hvern og einn hlut og að átta okkur á því hvað við vorum að gera rangt í hvert skipti en það tókst á endanum.
-Vorum t.d. frekar lengi að átta okkur á clip skipuninni og git commit veseninu öllu.
-Eftir að einn hafði náð að fikra sig áfram þá gat hann þó hjálpað hinum með það vandamál í hvert sinn. 
+Eftir að einn hafði náð að fikra sig áfram þá gat hann hjálpað hinum með það vandamál í hvert sinn. 
 
 [Link á verkefni](https://github.com/steinarvb/INTOPrufa)
 
@@ -25,12 +23,12 @@ Eftir að einn hafði náð að fikra sig áfram þá gat hann þó hjálpað hi
 Atli: 
 VLC media player,
 GNU General Public Licence,
-http://www.videolan.org/vlc/download-sources.html
+[Source Code](http://www.videolan.org/vlc/download-sources.html)
 
 Steinar: 
 Audacity,
 Creative Commons Attribution version 3.0 licence,
-http://audacity.sourceforge.net/download/source,
+[Source Code](http://audacity.sourceforge.net/download/source)
 
 ## 5. Unnið með Git (2. hluti)
 
