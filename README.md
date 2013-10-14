@@ -1,7 +1,7 @@
 #Open Source
 
-*Atli Guðlaugsson
-*Steinar Valur Bjarnason
+* Atli Guðlaugsson
+* Steinar Valur Bjarnason
 
 ## 1. Linux uppsetning
 
