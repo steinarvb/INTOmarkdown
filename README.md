@@ -21,15 +21,15 @@ https://github.com/steinarvb/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Atli:
-VLC media player
-GNU General Public Licence
+Atli: 
+VLC media player,
+GNU General Public Licence,
 http://www.videolan.org/vlc/download-sources.html
 
-Steinar:
-Audacity
-Creative Commons Attribution version 3.0 licence
-http://audacity.sourceforge.net/download/source
+Steinar: 
+Audacity,
+Creative Commons Attribution version 3.0 licence,
+http://audacity.sourceforge.net/download/source,
 
 ## 5. Unnið með Git (2. hluti)
 
