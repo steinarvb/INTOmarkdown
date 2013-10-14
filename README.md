@@ -1,6 +1,7 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+[x] Atli Guðlaugsson
+[x] Steinar Valur Bjarnason
 
 ## 1. Linux uppsetning
 
