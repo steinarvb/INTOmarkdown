@@ -14,10 +14,6 @@ Lýsið hvernig gekk að setja upp þessi tól.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
-
 Vorum heillengi að finna réttar skipanir fyrir hvern og einn hlut og að átta okkur á því hvað við vorum að gera rangt í hvert skipti en það tókst á endanum.
 Eftir að einn hafði náð að fikra sig áfram þá gat hann hjálpað hinum með það vandamál í hvert sinn. 
 
@@ -25,7 +21,15 @@ https://github.com/steinarvb/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Atli:
+VLC media player
+GNU General Public Licence
+http://www.videolan.org/vlc/download-sources.html
+
+Steinar:
+Audacity
+Creative Commons Attribution version 3.0 licence
+http://audacity.sourceforge.net/download/source
 
 ## 5. Unnið með Git (2. hluti)
 
