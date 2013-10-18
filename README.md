@@ -7,7 +7,7 @@
 
 
 Settum báðir upp Ubuntu stýrikerfið á Windows með því að nota Virtual Box. Það gekk frekar auðveldlega fyrir sig hjá okkur báðum. Lentum ekki í neinum stórum vandræðum þar.
-![mynd](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/1373061_10201521885521327_778852203_n.jpg?oh=410426c2a2cb81a57b1f997c8851bac9&oe=525E5DE2&__gda__=1381988895_4f276731bf46632e22bc4fe38f51dca8)
+![mynd](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/1369216_10201551247455357_1826957163_n.jpg?oh=99281c6fd66bddc896023ea0a3cc9102&oe=5263611B&__gda__=1382262505_7533c79b4d148f7ccb8ba5201f615440)
 ## 2. Uppsetning á vim && git
 Skrifuðum einfaldlega inn commandið fyrir hvort application. Uppsetningin gekk vel og hrakfallalaust.
 
